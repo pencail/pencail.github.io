@@ -121,11 +121,11 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225665/index.m3u8
 http://39.134.115.163:8080/TVOD/88888910/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AT-X" tvg-logo="" group-title="未分类", AT-X
 https://code.vthanhtivi.pw/getlink/jptv/Nxk7xMmj7dV7iq_k08p2fQ==/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animax 台湾" tvg-logo="" group-title="未分类", ANIMAX台湾
+#EXTINF:-1 tvg-id="" tvg-name="Animax 台湾" tvg-logo="" group-title="未分类", Animax 台湾
 http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animax 日本" tvg-logo="" group-title="未分类", ANIMAX日本
+#EXTINF:-1 tvg-id="" tvg-name="Animax 日本" tvg-logo="" group-title="未分类", Animax 日本
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAX 英文" tvg-logo="" group-title="未分类", ANIMAX英文
+#EXTINF:-1 tvg-id="" tvg-name="Animax asia" tvg-logo="" group-title="未分类", Animax asia
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941676
 #EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="未分类", Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
