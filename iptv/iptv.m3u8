@@ -126,7 +126,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="卫视频道",游戏风云
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AT-X" tvg-logo="" group-title="未分类", AT-X
-http://jp.vthanhnetwork.com/AT-X/index.m3u8
+https://neetball.net/live/neet3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax 台湾" tvg-logo="" group-title="未分类", Animax 台湾
 http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax 日本" tvg-logo="" group-title="未分类", Animax 日本
