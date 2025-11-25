@@ -32,7 +32,7 @@ http://60.3.123.167:4022/rtp/239.253.92.198:6063
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视", CCTV-15音乐
 http://60.3.123.167:4022/rtp/239.253.93.154:6322
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视", CCTV-16奥林匹克
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
+http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228625/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视", CCTV-17农业农村
 http://60.3.123.167:4022/rtp/239.253.93.150:6318
 #EXTINF:-1 tvg-id="6592" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="地方", 新科动漫
@@ -46,7 +46,7 @@ http://60.3.123.167:4022/rtp/239.253.92.209:6566
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 东南卫视
 http://60.3.123.167:4022/rtp/239.253.92.201:6146
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视", 甘肃卫视
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视", 广东卫视
 http://60.3.123.167:4022/rtp/239.253.92.206:8108
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视", 广西卫视
@@ -72,17 +72,17 @@ http://60.3.123.167:4022/rtp/239.253.92.19:6145
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视", 辽宁卫视
 http://60.3.123.167:4022/rtp/239.253.92.115:6056
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视", 内蒙古卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
+http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221225836/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视", 宁夏卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?IAS
+http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221225842/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视", 青海卫视
-http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/qhwsH264_2000.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视", 山东卫视
 http://60.3.123.167:4022/rtp/239.253.92.207:8109
 #EXTINF:-1 tvg-id="38" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png group-title="卫视", 山西卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws42_4000.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视", 陕西卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视", 深圳卫视
 http://60.3.123.167:4022/rtp/239.253.92.86:8017
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视", 四川卫视
@@ -90,33 +90,33 @@ http://60.3.123.167:4022/rtp/239.253.92.16:6043
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视", 天津卫视
 http://60.3.123.167:4022/rtp/239.253.92.91:8021
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视", 西藏卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视", 新疆卫视
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视", 云南卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视", 浙江卫视
 http://60.3.123.167:4022/rtp/239.253.92.90:8020
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视", 重庆卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="卫视", 海南卫视
 http://60.3.123.167:4022/rtp/239.253.93.155:6323
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台", 凤凰卫视
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台", TVB明珠台
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+# #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台", TVB明珠台
+# http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台", TVB翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id="126" tvg-name="东京电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TV Tokyo" group-title="TV Tokyo", TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="126" tvg-name="BS东京电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TV Tokyo" group-title="TV Tokyo", BSTV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 tvg-id="126" tvg-name="Tokyo MX1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TV Tokyo" group-title="TV Tokyo", Tokyo MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#EXTINF:-1 tvg-id="126" tvg-name="Tokyo MX2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TV Tokyo" group-title="TV Tokyo", Tokyo MX2
-https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
+# #EXTINF:-1 tvg-id="126" tvg-name="Tokyo MX2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TV Tokyo" group-title="TV Tokyo", Tokyo MX2
+# https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视", 金鹰卡通
 http://60.3.123.167:4022/rtp/239.253.92.163:8055
 #EXTINF:-1 tvg-id="" tvg-name="炫动卡通" tvg-logo="" group-title="未分类", 炫动卡通
@@ -127,24 +127,24 @@ http://60.3.123.167:4022/rtp/239.253.92.162:8054
 http://60.3.123.167:4022/rtp/239.253.93.203:6381
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方", 优漫卡通
 http://60.3.123.167:4022/rtp/239.253.93.204:6382
-#EXTINF:-1 tvg-id="1046" tvg-name="黑莓动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方", 黑莓动画
-http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="卫视频道",游戏风云
-http://[2409:8087:7001:20:2::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT-X" tvg-logo="" group-title="未分类", AT-X
-#https://neetball.net/live/neet3.m3u8
-https://vnpt.nekocdn.xyz/memfs/934473ee-a4c0-40be-bae1-5c692023c2bd.m3u8
+# #EXTINF:-1 tvg-id="1046" tvg-name="黑莓动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方", 黑莓动画
+# http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+# #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="卫视频道",游戏风云
+# http://60.3.123.167:4022/rtp/239.253.93.222:6400
+# #EXTINF:-1 tvg-id="" tvg-name="AT-X" tvg-logo="" group-title="未分类", AT-X
+# https://neetball.net/live/neet3.m3u8
+# https://vnpt.nekocdn.xyz/memfs/934473ee-a4c0-40be-bae1-5c692023c2bd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax 台湾" tvg-logo="" group-title="未分类", Animax 台湾
 http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animax 香港" tvg-logo="" group-title="未分类", Animax 香港
-http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="Animax 香港" tvg-logo="" group-title="未分类", Animax 香港
+# http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax 日本" tvg-logo="" group-title="未分类", Animax 日本
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 tvg-id="" tvg-name="Animax asia" tvg-logo="" group-title="未分类", Animax asia
-http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683165&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="未分类", Aniplus
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="" group-title="动漫", Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yamato Animation" tvg-logo="" group-title="动漫", Yamato Animation
-https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="Animax asia" tvg-logo="" group-title="未分类", Animax asia
+# http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683165&extension=ts
+# #EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="未分类", Aniplus
+# https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="" group-title="动漫", Anime TV
+# https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="Yamato Animation" tvg-logo="" group-title="动漫", Yamato Animation
+# https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
