@@ -40,25 +40,33 @@ http://192.168.1.1:4022/udp/239.254.200.46:8004
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视", 河北卫视
 http://192.168.1.1:4022/udp/239.254.200.174:6000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南卫视
-http://192.168.1.1:4022/udp/239.254.200.48:8012#http://192.168.1.1:4022/udp/239.254.200.234:3002
+http://192.168.1.1:4022/udp/239.254.200.48:8012
+# http://192.168.1.1:4022/udp/239.254.200.234:3002
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视", 浙江卫视
-http://192.168.1.1:4022/udp/239.254.200.53:8036#http://192.168.1.1:4022/udp/239.254.200.237:3004
+http://192.168.1.1:4022/udp/239.254.200.53:8036
+# http://192.168.1.1:4022/udp/239.254.200.237:3004
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视", 江苏卫视
-http://192.168.1.1:4022/udp/239.254.200.51:8028#http://192.168.1.1:4022/udp/239.254.200.235:3003
+http://192.168.1.1:4022/udp/239.254.200.51:8028
+# http://192.168.1.1:4022/udp/239.254.200.235:3003
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视", 北京卫视
-http://192.168.1.1:4022/udp/239.254.200.47:8024#http://192.168.1.1:4022/udp/239.254.200.64:2000
+http://192.168.1.1:4022/udp/239.254.200.47:8024
+# http://192.168.1.1:4022/udp/239.254.200.64:2000
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 东南卫视
 http://192.168.1.1:4022/udp/239.254.201.13:6291
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视", 东方卫视
-http://192.168.1.1:4022/udp/239.254.200.52:8032#http://192.168.1.1:4022/udp/239.254.200.238:3006
+http://192.168.1.1:4022/udp/239.254.200.52:8032
+# http://192.168.1.1:4022/udp/239.254.200.238:3006
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视", 天津卫视
 http://192.168.1.1:4022/udp/239.254.200.54:1234
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视", 深圳卫视
-http://192.168.1.1:4022/udp/239.254.200.50:8020#http://192.168.1.1:4022/udp/239.254.200.69:2000
+http://192.168.1.1:4022/udp/239.254.200.50:8020
+# http://192.168.1.1:4022/udp/239.254.200.69:2000
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视", 山东卫视
-http://192.168.1.1:4022/udp/239.254.200.55:8052#http://192.168.1.1:4022/udp/239.254.200.182:3005
+http://192.168.1.1:4022/udp/239.254.200.55:8052
+# http://192.168.1.1:4022/udp/239.254.200.182:3005
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视", 广东卫视
-http://192.168.1.1:4022/udp/239.254.200.56:8048#http://192.168.1.1:4022/udp/239.254.200.70:2000
+http://192.168.1.1:4022/udp/239.254.200.56:8048
+# http://192.168.1.1:4022/udp/239.254.200.70:2000
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视", 黑龙江卫视
 http://192.168.1.1:4022/udp/239.254.200.49:8016
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视", 辽宁卫视
@@ -68,7 +76,8 @@ http://192.168.1.1:4022/udp/239.254.200.163:6000
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视", 湖北卫视
 http://192.168.1.1:4022/udp/239.254.200.164:6000
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视", 四川卫视
-http://192.168.1.1:4022/udp/239.254.200.202:6325#http://192.168.1.1:4022/udp/239.254.200.180:3001
+http://192.168.1.1:4022/udp/239.254.200.202:6325
+# http://192.168.1.1:4022/udp/239.254.200.180:3001
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视", 重庆卫视
 http://192.168.1.1:4022/udp/239.254.200.203:6323
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视", 河南卫视
