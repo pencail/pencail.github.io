@@ -156,17 +156,23 @@ http://192.168.1.1:4022/udp/239.254.200.92:9252
 http://192.168.1.1:4022/udp/239.254.201.201:7269
 #EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="动漫卡通", 优漫卡通
 http://192.168.1.1:4022/udp/239.254.201.203:7178
+#EXTINF:-1 tvg-id="1279" tvg-name="动漫秀场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dongmanxiuchang.png" group-title="动漫卡通", 动漫秀场
+http://192.168.1.1:4022/udp/239.254.201.165:6358
 #EXTINF:-1 tvg-id="" tvg-name="Animax 台湾" tvg-logo="" group-title="动漫卡通", Animax 台湾
 http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+# http://36.239.133.104/udp/230.1.2.77:11111
 #EXTINF:-1 tvg-id="" tvg-name="Animax 日本" tvg-logo="" group-title="动漫卡通", Animax 日本
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 # #EXTINF:-1 tvg-id="" tvg-name="AT-X" tvg-logo="" group-title="动漫卡通", AT-X
 # https://neetball.net/live/neet3.m3u8
 # 港澳台、海外
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台", 凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台", 凤凰卫视中文台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+# http://192.168.1.1:4022/udp/239.254.201.2:5226
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台", 凤凰卫视电影台
+http://192.168.1.1:4022/udp/239.254.201.1:5214
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台", TVB翡翠台
-https://hls.iill.top/api/TVB-Jade/index.m3u8
+http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="东京电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TV Tokyo" group-title="日本", TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="126" tvg-name="BS东京电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TV Tokyo" group-title="日本", BSTV Tokyo
