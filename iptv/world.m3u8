@@ -136,7 +136,7 @@ http://192.168.1.1:4022/udp/239.254.201.110:5181
 #EXTINF:-1 tvg-id="1324" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方", 金鹰纪实
 http://192.168.1.1:4022/udp/239.254.200.189:6293
 # #EXTINF:-1 tvg-id="" tvg-name=" 中国教育" tvg-logo="" group-title="地方", 中国教育
-# http://192.168.1.1:4022/udp/239.253.92.211:6069
+# http://192.168.1.1:4022/udp/239.254.201.158:7170
 #EXTINF:-1 tvg-id="" tvg-name=" 河北杂技" tvg-logo="" group-title="地方", 河北杂技
 http://192.168.1.1:4022/udp/239.254.201.139:7203
 #EXTINF:-1 tvg-id="" tvg-name=" 唐山新闻综合" tvg-logo="" group-title="地方", 唐山新闻综合
