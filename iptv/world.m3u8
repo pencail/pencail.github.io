@@ -121,7 +121,7 @@ http://192.168.1.1:4022/udp/239.254.200.165:4120
 http://192.168.1.1:4022/udp/239.254.200.18:6000
 #EXTINF:-1 tvg-id="565" tvg-name="河北都市" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI3/HEBEI3_140x140.png" group-title="地方", 河北都市
 http://192.168.1.1:4022/udp/239.254.200.19:6000
-#EXTINF:-1 tvg-id="566" tvg-name="河北影视" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI4/HEBEI4_140x140.png" group-title="地方", 河北影视剧
+#EXTINF:-1 tvg-id="566" tvg-name="河北文旅·体育" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI4/HEBEI4_140x140.png" group-title="地方", 河北影视剧
 http://192.168.1.1:4022/udp/239.254.200.20:6000
 #EXTINF:-1 tvg-id="567" tvg-name="河北少儿" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI5/HEBEI5_140x140.png" group-title="地方", 河北少儿科教
 http://192.168.1.1:4022/udp/239.254.200.21:6000
@@ -129,16 +129,16 @@ http://192.168.1.1:4022/udp/239.254.200.21:6000
 http://192.168.1.1:4022/udp/239.254.200.22:6000
 #EXTINF:-1 tvg-id="2043" tvg-name="河北三农" tvg-logo="http://pic1.kookong.com/images/logo/channel/HEBEI7/HEBEI7.jpg" group-title="地方", 河北三农
 http://192.168.1.1:4022/udp/239.254.200.23:6000
-#EXTINF:-1 tvg-id="" tvg-name=" 精彩河北" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方", 精彩河北
-http://192.168.1.1:4022/udp/239.254.200.27:6000
+# #EXTINF:-1 tvg-id="" tvg-name=" 精彩河北" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方", 精彩河北
+# http://192.168.1.1:4022/udp/239.254.200.27:6000
 #EXTINF:-1 tvg-id="1293" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="地方", 中国交通
 http://192.168.1.1:4022/udp/239.254.201.110:5181
 #EXTINF:-1 tvg-id="1324" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方", 金鹰纪实
 http://192.168.1.1:4022/udp/239.254.200.189:6293
 # #EXTINF:-1 tvg-id="" tvg-name=" 中国教育" tvg-logo="" group-title="地方", 中国教育
 # http://192.168.1.1:4022/udp/239.254.201.158:7170
-#EXTINF:-1 tvg-id="" tvg-name=" 河北杂技" tvg-logo="" group-title="地方", 河北杂技
-http://192.168.1.1:4022/udp/239.254.201.139:7203
+# #EXTINF:-1 tvg-id="" tvg-name=" 河北杂技" tvg-logo="" group-title="地方", 河北杂技
+# http://192.168.1.1:4022/udp/239.254.201.139:7203
 #EXTINF:-1 tvg-id="" tvg-name=" 唐山新闻综合" tvg-logo="" group-title="地方", 唐山新闻综合
 http://192.168.1.1:4022/udp/239.254.200.166:6000
 #EXTINF:-1 tvg-id="" tvg-name=" 唐山生活服务" tvg-logo="" group-title="地方", 唐山生活服务
